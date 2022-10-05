@@ -7,6 +7,9 @@ box-sizing:border-box;
 position:relative;
 width: 100%;
 }
+body {
+  font-family: Copperplate, Papyrus, fantasy;
+}
 .background-container{
 position: relative;
 height:380px;
@@ -110,7 +113,7 @@ border-bottom: 1px solid #dedede;
 .sora-author-box-text .hello-txt {
 background-color: #4caf50;
 color: #fff;
-font-size: 14px;
+font-size: 12px;
 font-weight: 700;
 line-height: 1.1;
 display: inline-block;
